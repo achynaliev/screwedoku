@@ -5,6 +5,8 @@ puts "Do NOT try to solve this error by going one method at a time and looking f
 puts "Instead, comment out half of the bad file at a time until the error changes.  Keep narrowing down from there.".red
 puts ""
 puts "Does this approach feel familiar?  The approach is a version of binary search.\n\n".red
+puts ""
+puts "HAHAAHAHAHAH IZI WORK".blue
 
 require_relative "board"
 
